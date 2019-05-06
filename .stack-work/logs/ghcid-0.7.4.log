@@ -1,0 +1,25 @@
+Configuring ghcid-0.7.4...
+Preprocessing executable 'ghcid' for ghcid-0.7.4..
+Building executable 'ghcid' for ghcid-0.7.4..
+[ 1 of 10] Compiling Language.Haskell.Ghcid.Escape ( src/Language/Haskell/Ghcid/Escape.hs, .stack-work/dist/x86_64-linux/Cabal-2.4.0.1/build/ghcid/ghcid-tmp/Language/Haskell/Ghcid/Escape.o )
+[ 2 of 10] Compiling Language.Haskell.Ghcid.Terminal ( src/Language/Haskell/Ghcid/Terminal.hs, .stack-work/dist/x86_64-linux/Cabal-2.4.0.1/build/ghcid/ghcid-tmp/Language/Haskell/Ghcid/Terminal.o )
+[ 3 of 10] Compiling Language.Haskell.Ghcid.Types ( src/Language/Haskell/Ghcid/Types.hs, .stack-work/dist/x86_64-linux/Cabal-2.4.0.1/build/ghcid/ghcid-tmp/Language/Haskell/Ghcid/Types.o )
+[ 4 of 10] Compiling Language.Haskell.Ghcid.Parser ( src/Language/Haskell/Ghcid/Parser.hs, .stack-work/dist/x86_64-linux/Cabal-2.4.0.1/build/ghcid/ghcid-tmp/Language/Haskell/Ghcid/Parser.o )
+[ 5 of 10] Compiling Language.Haskell.Ghcid.Util ( src/Language/Haskell/Ghcid/Util.hs, .stack-work/dist/x86_64-linux/Cabal-2.4.0.1/build/ghcid/ghcid-tmp/Language/Haskell/Ghcid/Util.o )
+[ 6 of 10] Compiling Language.Haskell.Ghcid ( src/Language/Haskell/Ghcid.hs, .stack-work/dist/x86_64-linux/Cabal-2.4.0.1/build/ghcid/ghcid-tmp/Language/Haskell/Ghcid.o )
+[ 7 of 10] Compiling Paths_ghcid      ( .stack-work/dist/x86_64-linux/Cabal-2.4.0.1/build/ghcid/autogen/Paths_ghcid.hs, .stack-work/dist/x86_64-linux/Cabal-2.4.0.1/build/ghcid/ghcid-tmp/Paths_ghcid.o )
+[ 8 of 10] Compiling Session          ( src/Session.hs, .stack-work/dist/x86_64-linux/Cabal-2.4.0.1/build/ghcid/ghcid-tmp/Session.o )
+[ 9 of 10] Compiling Wait             ( src/Wait.hs, .stack-work/dist/x86_64-linux/Cabal-2.4.0.1/build/ghcid/ghcid-tmp/Wait.o )
+[10 of 10] Compiling Ghcid            ( src/Ghcid.hs, .stack-work/dist/x86_64-linux/Cabal-2.4.0.1/build/ghcid/ghcid-tmp/Ghcid.o )
+Linking .stack-work/dist/x86_64-linux/Cabal-2.4.0.1/build/ghcid/ghcid ...
+Preprocessing library for ghcid-0.7.4..
+Building library for ghcid-0.7.4..
+[1 of 6] Compiling Language.Haskell.Ghcid.Escape ( src/Language/Haskell/Ghcid/Escape.hs, .stack-work/dist/x86_64-linux/Cabal-2.4.0.1/build/Language/Haskell/Ghcid/Escape.o )
+[2 of 6] Compiling Language.Haskell.Ghcid.Types ( src/Language/Haskell/Ghcid/Types.hs, .stack-work/dist/x86_64-linux/Cabal-2.4.0.1/build/Language/Haskell/Ghcid/Types.o )
+[3 of 6] Compiling Language.Haskell.Ghcid.Parser ( src/Language/Haskell/Ghcid/Parser.hs, .stack-work/dist/x86_64-linux/Cabal-2.4.0.1/build/Language/Haskell/Ghcid/Parser.o )
+[4 of 6] Compiling Language.Haskell.Ghcid.Util ( src/Language/Haskell/Ghcid/Util.hs, .stack-work/dist/x86_64-linux/Cabal-2.4.0.1/build/Language/Haskell/Ghcid/Util.o )
+[5 of 6] Compiling Language.Haskell.Ghcid ( src/Language/Haskell/Ghcid.hs, .stack-work/dist/x86_64-linux/Cabal-2.4.0.1/build/Language/Haskell/Ghcid.o )
+[6 of 6] Compiling Paths_ghcid      ( .stack-work/dist/x86_64-linux/Cabal-2.4.0.1/build/autogen/Paths_ghcid.hs, .stack-work/dist/x86_64-linux/Cabal-2.4.0.1/build/Paths_ghcid.o )
+Installing executable ghcid in /home/threestrikes/.stack/snapshots/x86_64-linux/lts-13.20/8.6.5/bin
+Installing library in /home/threestrikes/.stack/snapshots/x86_64-linux/lts-13.20/8.6.5/lib/x86_64-linux-ghc-8.6.5/ghcid-0.7.4-4WdHFhCrZOwGVn4pap4eUl
+Registering library for ghcid-0.7.4..
